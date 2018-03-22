@@ -14,6 +14,7 @@ namespace DCA.Lab.ConsoleApp
             Console.Write("2nd change to the app!");
             Console.Write("3rd change to the app!");
             Console.Write("4th change to the app!");
+            Console.Write("5th change to the app!");
             Console.ReadKey();
         }
     }
