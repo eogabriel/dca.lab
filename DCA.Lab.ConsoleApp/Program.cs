@@ -10,6 +10,8 @@ namespace DCA.Lab.ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.Write("First change to the app!");
+            Console.ReadKey();
         }
     }
 }
